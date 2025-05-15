@@ -9,5 +9,4 @@
 0.0.0.0 xpui.app.spotify.com
 0.0.0.0 image-cdn-ak.spotifycdn.com
 0.0.0.0 gue1-spclient.spotify.com
-0.0.0.0 clienttoken.spotify.com
 0.0.0.0 spclient.wg.spotify.com
